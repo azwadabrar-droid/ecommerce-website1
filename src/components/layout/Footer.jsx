@@ -81,7 +81,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 pt-6 text-center">
-          <p className="text-sm text-gray-500">&copy; Copyright Rimel 2022. All right reserved</p>
+          <p className="text-sm text-gray-500">&copy; Copyright Azwad Abrar 2022. All right reserved</p>
         </div>
       </div>
     </footer>
